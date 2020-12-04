@@ -9,7 +9,7 @@
 
 ### API
 #### Valyrian speak translator api is used from [funtranslations.com](https://funtranslations.com/).
-### API : [Valyrian API](https://api.funtranslations.com/translate/valyrian.json)
+### API : [Valyrian API](https://funtranslations.com/api/valyrian)
 
 ### Features
 * Alert messages are shown on wrong input.
