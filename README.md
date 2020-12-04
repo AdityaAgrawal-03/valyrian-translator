@@ -1,6 +1,6 @@
 #  Valyrian Translator App
 
-#### A language translator web app which converts english text to minion text by fetching an API.
+#### A language translator web app which converts english text to valyrian text by fetching an API.
 
 ### Technology
 * HTML5
