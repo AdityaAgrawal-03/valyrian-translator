@@ -1,8 +1,18 @@
-# English to Valyrian Translator App
+#  Valyrian Translator App
 
-#### A simple app which converts an english text to valyrian text by fetching an API.
+#### A language translator web app which converts english text to minion text by fetching an API.
 
-### Technologies
-#### HTML5, CSS3, vanillaJS
+### Technology
+* HTML5
+* CSS3
+* vanillaJS
 
 ### API
+#### Valyrian speak translator api is used from [funtranslations.com](https://funtranslations.com/).
+
+### Features
+* Alert messages are shown on wrong input.
+* Input text is encoded.
+* Rate of calling the api 5 per hour.
+
+### Demo
